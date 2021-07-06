@@ -21,3 +21,5 @@ ALTERAR E FAZER O PUSH: altere > vá para CHANGES > Commit to main > Repository 
 
 CAPTAR DA NUVEM: Repository > Pull
 
+PULL REQUEST: Branch > Creat Pull Request
+
