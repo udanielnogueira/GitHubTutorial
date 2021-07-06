@@ -1,2 +1,2 @@
 # GitHubTurorial
- GitHub First Steps.
+ GitHub first steps.
