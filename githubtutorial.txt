@@ -16,5 +16,5 @@ GITHUB DESKTOP
 
 CLONAR UM REPOSITÓRIO: Current repository > Add > Clone repository
 
-ALTERAR E FAZER O PUSH: Altere > vá para CHANGES > Commit to main > Push Origin
+ALTERAR E FAZER O PUSH: altere > vá para CHANGES > Commit to main > Push Origin
 
