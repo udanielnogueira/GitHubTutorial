@@ -2,19 +2,19 @@
 GITHUB ONLINE
 +++++++++++++
 
-IR PARA O SEU PERFIL: Profile icon > Your profile 
+Ir para o seu perfil: PROFILE ICON > YOUR PROFILE
 
-CRIAR NOVO REPOSITÓRIO: em seu perfil > Repositories > New
+Criar novo repositório: Em seu perfil > REPOSITORIES > NEW
 
-CLONAR UM REPOSITÓRIO: vá para o repositório > Fork
+Clonar um repositório: Vá para o repositório > FORK
 
-VER CÓDIGO E VER HISTÓRICO: clique no repositório > estará disponível cada arquivo com seu respectivo histórico
+Ver código e ver histórico: Clique no repositório > Estará disponível cada arquivo com seu respectivo histórico
 
 ++++++++++++++
 GITHUB DESKTOP
 ++++++++++++++
 
-CLONAR UM REPOSITÓRIO: Current repository > Add > Clone repository
+Clonar um repositório: Current repository > Add > Clone repository
 
 ALTERAR E FAZER O PUSH: altere > vá para CHANGES > Commit to main > Push Origin (Ctrl + P)
 ALTERAR E FAZER O PUSH: altere > vá para CHANGES > Commit to main > Repository > Push (Ctrl + P)
