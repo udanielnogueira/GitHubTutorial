@@ -14,12 +14,12 @@ Ver código e ver histórico: Clique no repositório > Estará disponível cada 
 GITHUB DESKTOP
 ++++++++++++++
 
-Clonar um repositório: Current repository > Add > Clone repository
+Clonar um repositório: CURRENT REPOSITORY> ADD > CLONE REPOSITORY
 
-ALTERAR E FAZER O PUSH: altere > vá para CHANGES > Commit to main > Push Origin (Ctrl + P)
-ALTERAR E FAZER O PUSH: altere > vá para CHANGES > Commit to main > Repository > Push (Ctrl + P)
+Alterar e fazer o push: Altere > Vá para CHANGES > COMMIT TO MAIN > PUSH ORIGIN (Ctrl + P)
+Alterar e fazer o push: Altere > Vá para CHANGES > COMMIT TO MAIN > REPOSITORY > PUSH (Ctrl + P)
 
-CAPTAR DA NUVEM: Repository > Pull
+Captar da nuvem: REPOSITORY > PULL
 
-PULL REQUEST: Branch > Creat Pull Request
+Pull Request: BRANCH > CREATE PULL REQUEST
 
