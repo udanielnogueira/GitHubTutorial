@@ -21,5 +21,5 @@ Alterar e fazer o push: Altere > Vá para CHANGES > COMMIT TO MAIN > REPOSITORY 
 
 Captar da nuvem: REPOSITORY > PULL
 
-Pull Request: BRANCH > CREATE PULL REQUEST
+Pull Request: BRANCH > CREATE PULL REQUESt
 
