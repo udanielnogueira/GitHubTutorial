@@ -17,9 +17,8 @@ GITHUB DESKTOP
 Clonar um repositório: CURRENT REPOSITORY> ADD > CLONE REPOSITORY
 
 Alterar e fazer o push: Altere > Vá para CHANGES > COMMIT TO MAIN > PUSH ORIGIN (Ctrl + P)
-Alterar e fazer o push: Altere > Vá para CHANGES > COMMIT TO MAIN > REPOSITORY > PUSH (Ctrl + P)
 
 Captar da nuvem: REPOSITORY > PULL
 
-Pull Request: BRANCH > CREATE PULL REQUESt
+Pull Request: BRANCH > CREATE PULL REQUEST
 
