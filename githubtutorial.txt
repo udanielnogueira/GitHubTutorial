@@ -14,9 +14,9 @@ Ver código e ver histórico: Clique no repositório > Estará disponível cada 
 GitHub Desktop
 ++++++++++++++
 
-Clonar um repositório: CURRENT REPOSITORY> ADD > CLONE REPOSITORY
+Clonar um repositório: CURRENT REPOSITORY > ADD > CLONE REPOSITORY
 
-Alterar e fazer o push: Altere > Vá para CHANGES > COMMIT TO MAIN > PUSH ORIGIN (Ctrl + P)
+Alterar e fazer o push: Altere na IDE > Vá para CHANGES > COMMIT TO MAIN > PUSH ORIGIN (Ctrl + P)
 
 Captar da nuvem: REPOSITORY > PULL
 
