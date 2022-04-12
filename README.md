@@ -2,7 +2,7 @@
  
 __GitHub Web__
 
-1. Ir para o seu perfil: [Profile Icon] > [Your Profile]
+1. Ir para o seu perfil: ``Profile Icon`` > ``Your Profile``
 
 2. Criar novo repositório: Ir para o seu perfil > REPOSITORIES > NEW
 
