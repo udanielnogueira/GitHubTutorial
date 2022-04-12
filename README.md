@@ -4,30 +4,30 @@
 
 1. Perfil: 
 
-``Profile Icon`` > ``Your Profile``
+`Profile Icon` > `Your Profile`
 
 2. Criar repositório: 
 
-No perfil > ``Repositories`` > ``New``
+No perfil > `Repositories` > `New`
 
 3. Clonar repositório: 
 
-No repositório > ``Fork``
+No repositório > `Fork`
 
 ## GitHub Desktop
 
 1. Clonar repositório: 
 
-``Current Repository`` > ``Add`` > ``Clone Repository``
+`Current Repository` > `Add` > `Clone Repository`
 
 2. Enviar alterações para a nuvem: 
 
-``Changes`` > ``Commit to main`` > ``Push Origin (Ctrl + P)``
+`Changes` > `Commit to main` > `Push Origin (Ctrl + P)`
 
 3. Sincronizar da nuvem: 
 
-``Repository`` > ``Pull``
+`Repository` > `Pull`
 
 4. Pull Request: 
 
-``Branch`` > ``Create Pull Request``
+`Branch` > `Create Pull Request`
