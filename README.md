@@ -4,16 +4,16 @@ __GitHub Web__
 
 1. Ir para o seu perfil: ``Profile Icon`` > ``Your Profile``
 
-2. Criar novo repositório: Ir para o seu perfil > REPOSITORIES > NEW
+2. Criar novo repositório: Ir para o seu perfil > ``Repositories`` > ``New``
 
-3. Clonar repositório: Vá para o repositório > FORK
+3. Clonar repositório: Vá para o repositório > ``Fork``
 
 __GitHub Desktop__
 
-* Clonar repositório: CURRENT REPOSITORY > ADD > CLONE REPOSITORY
+1. Clonar repositório: ``Current Repository`` > ``Add`` > ``Clone Repository``
 
-* Alterar e fazer Push: Altere na IDE > Vá para CHANGES > COMMIT TO MAIN > PUSH ORIGIN (Ctrl + P)
+2. Alterar e fazer Push: Altere na IDE > Vá para ``Changes`` > ``Commit to main`` > ``Push Origin (Ctrl + P)``
 
-* Sincronizar da nuvem: REPOSITORY > PULL
+3. Sincronizar da nuvem: ``Repository`` > ``Pull``
 
-* Pull Request: BRANCH > CREATE PULL REQUEST
+4. Pull Request: ``Branch`` > ``Create Pull Request``
