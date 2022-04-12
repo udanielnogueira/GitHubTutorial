@@ -2,11 +2,11 @@
  
 __GitHub Web__
 
-* Ir para o seu perfil: PROFILE ICON > YOUR PROFILE
+1. Ir para o seu perfil: [Profile Icon] > [Your Profile]
 
-* Criar novo repositório: Ir para o seu perfil > REPOSITORIES > NEW
+2. Criar novo repositório: Ir para o seu perfil > REPOSITORIES > NEW
 
-* Clonar repositório: Vá para o repositório > FORK
+3. Clonar repositório: Vá para o repositório > FORK
 
 __GitHub Desktop__
 
@@ -17,4 +17,3 @@ __GitHub Desktop__
 * Sincronizar da nuvem: REPOSITORY > PULL
 
 * Pull Request: BRANCH > CREATE PULL REQUEST
-
