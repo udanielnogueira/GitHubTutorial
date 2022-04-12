@@ -1,6 +1,6 @@
 # GitHubTurorial
  
-__GitHub Web__
+## GitHub Web
 
 1. Perfil: 
 
@@ -14,7 +14,7 @@ No perfil > ``Repositories`` > ``New``
 
 No repositório > ``Fork``
 
-__GitHub Desktop__
+## GitHub Desktop
 
 1. Clonar repositório: 
 
